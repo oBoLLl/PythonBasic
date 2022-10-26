@@ -1,0 +1,7 @@
+Ivanov 12000
+Kuznetsov 36000
+Petrov 21000
+Sidorov 14000
+Smirnov 29000
+Tikhonov 24000
+Ushakov 27000
